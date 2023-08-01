@@ -89,15 +89,15 @@ call plug#begin()
 "
 " " Make sure you use single quotes
 
-Plug 'dr-kino/cscope-maps'
-Plug 'preservim/nerdtree.git'
-Plug 'raimondi/delimitmate.git'
-Plug 'edkolev/erlang-motions.vim.git'
-Plug 'preservim/tagbar.git'
-Plug 'vim-erlang/vim-erlang-tags.git'
-Plug 'tpope/vim-fugitive.git'
-Plug 'mtdl9/vim-log-highlighting.git'
-Plug 'yggdroot/indentline.git'
+Plug 'git@github.com:dr-kino/cscope-maps'
+Plug 'git@github.com:preservim/nerdtree.git'
+Plug 'git@github.com:raimondi/delimitmate.git'
+Plug 'git@github.com:edkolev/erlang-motions.vim.git'
+Plug 'git@github.com:preservim/tagbar.git'
+Plug 'git@github.com:vim-erlang/vim-erlang-tags.git'
+Plug 'git@github.com:tpope/vim-fugitive.git'
+Plug 'git@github.com:mtdl9/vim-log-highlighting.git'
+Plug 'git@github.com:yggdroot/indentline.git'
 
 " Initialize plugin system
 " " - Automatically executes `filetype plugin indent on` and `syntax enable`.
