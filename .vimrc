@@ -110,9 +110,6 @@ Plug 'git@github.com:yggdroot/indentline.git'
 " vim-pathogen for installing vim plugins
 "execute pathogen#infect()
 
-" Cscope specific
-source ~/.vim/plugins/cscope_maps.vim
-
 " Tabs and indent
 set tabstop=4
 set shiftwidth=4
